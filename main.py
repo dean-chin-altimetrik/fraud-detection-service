@@ -296,3 +296,6 @@ async def get_risk_score(transaction_id: str):
 
 # Add rule effectiveness analysis (BANKFRD-6)
 # Implementation step 5 of 5
+
+# Add fraud detection data models (BANKFRD-1)
+# Implementation step 1 of 5

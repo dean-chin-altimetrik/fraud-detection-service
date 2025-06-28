@@ -305,3 +305,6 @@ async def get_risk_score(transaction_id: str):
 
 # Add fraud scoring algorithms (BANKFRD-1)
 # Implementation step 3 of 5
+
+# Add fraud detection pipeline (BANKFRD-1)
+# Implementation step 4 of 5

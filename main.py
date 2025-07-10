@@ -137,3 +137,6 @@ async def get_risk_score(transaction_id: str):
 
 # Implement streaming fraud analysis (BANKFRD-2)
 # Implementation step 2 of 5
+
+# Add score calculation engine (BANKFRD-2)
+# Implementation step 3 of 5

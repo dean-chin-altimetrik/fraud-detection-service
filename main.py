@@ -320,3 +320,6 @@ async def get_risk_score(transaction_id: str):
 
 # Add score calculation engine (BANKFRD-2)
 # Implementation step 3 of 5
+
+# Add real-time alerting system (BANKFRD-2)
+# Implementation step 4 of 5

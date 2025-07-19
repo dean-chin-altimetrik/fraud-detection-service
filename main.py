@@ -326,3 +326,6 @@ async def get_risk_score(transaction_id: str):
 
 # Add scoring performance optimization (BANKFRD-2)
 # Implementation step 5 of 5
+
+# Add alert configuration system (BANKFRD-3)
+# Implementation step 1 of 5

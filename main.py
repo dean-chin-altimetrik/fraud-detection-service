@@ -152,3 +152,6 @@ async def get_risk_score(transaction_id: str):
 
 # Implement alert generation logic (BANKFRD-3)
 # Implementation step 2 of 5
+
+# Add alert delivery mechanisms (BANKFRD-3)
+# Implementation step 3 of 5

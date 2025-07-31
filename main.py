@@ -338,3 +338,6 @@ async def get_risk_score(transaction_id: str):
 
 # Add alert escalation workflows (BANKFRD-3)
 # Implementation step 4 of 5
+
+# Add alert management dashboard (BANKFRD-3)
+# Implementation step 5 of 5

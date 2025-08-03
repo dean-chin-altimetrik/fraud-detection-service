@@ -161,3 +161,6 @@ async def get_risk_score(transaction_id: str):
 
 # Add alert management dashboard (BANKFRD-3)
 # Implementation step 5 of 5
+
+# Add case management data models (BANKFRD-4)
+# Implementation step 1 of 5

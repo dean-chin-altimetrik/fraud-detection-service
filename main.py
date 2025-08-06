@@ -344,3 +344,6 @@ async def get_risk_score(transaction_id: str):
 
 # Add case management data models (BANKFRD-4)
 # Implementation step 1 of 5
+
+# Implement case workflow engine (BANKFRD-4)
+# Implementation step 2 of 5

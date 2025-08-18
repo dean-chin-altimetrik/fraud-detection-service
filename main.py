@@ -176,3 +176,6 @@ async def get_risk_score(transaction_id: str):
 
 # Add case resolution workflows (BANKFRD-4)
 # Implementation step 5 of 5
+
+# Add pattern detection algorithms (BANKFRD-5)
+# Implementation step 1 of 5

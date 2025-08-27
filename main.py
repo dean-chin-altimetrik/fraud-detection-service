@@ -365,3 +365,6 @@ async def get_risk_score(transaction_id: str):
 
 # Add pattern matching logic (BANKFRD-5)
 # Implementation step 3 of 5
+
+# Add anomaly detection system (BANKFRD-5)
+# Implementation step 4 of 5

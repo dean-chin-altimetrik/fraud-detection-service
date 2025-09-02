@@ -371,3 +371,6 @@ async def get_risk_score(transaction_id: str):
 
 # Add pattern learning mechanisms (BANKFRD-5)
 # Implementation step 5 of 5
+
+# Add rules engine infrastructure (BANKFRD-6)
+# Implementation step 1 of 5

@@ -374,3 +374,6 @@ async def get_risk_score(transaction_id: str):
 
 # Add rules engine infrastructure (BANKFRD-6)
 # Implementation step 1 of 5
+
+# Implement rule evaluation logic (BANKFRD-6)
+# Implementation step 2 of 5

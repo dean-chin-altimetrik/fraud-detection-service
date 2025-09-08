@@ -377,3 +377,6 @@ async def get_risk_score(transaction_id: str):
 
 # Implement rule evaluation logic (BANKFRD-6)
 # Implementation step 2 of 5
+
+# Add dynamic rule configuration (BANKFRD-6)
+# Implementation step 3 of 5

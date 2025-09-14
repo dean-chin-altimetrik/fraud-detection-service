@@ -383,3 +383,6 @@ async def get_risk_score(transaction_id: str):
 
 # Add rule performance monitoring (BANKFRD-6)
 # Implementation step 4 of 5
+
+# Add rule effectiveness analysis (BANKFRD-6)
+# Implementation step 5 of 5
